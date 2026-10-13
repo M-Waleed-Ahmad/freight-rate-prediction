@@ -70,4 +70,4 @@ Details: [reports/eda_findings.md](reports/eda_findings.md) and [reports/modelin
 - [x] GitHub repository with code, dependencies (`requirements.txt`) and run instructions (this file)
 - [x] `validation_predictions.csv` (`load_id,predicted_rate`, 12,000 rows)
 - [x] PDF report: [reports/freight_rate_report.pdf](reports/freight_rate_report.pdf) (validation and split approach, December chart)
-- [ ] 2–3 minute Loom
+- [x] 2–3 minute Loom
