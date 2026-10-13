@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+loom_script.md
+freight-rate-ml-assessment.pdf
